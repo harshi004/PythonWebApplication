@@ -15,9 +15,9 @@ with col3:
   st.image("https://media4.giphy.com/media/S8rf64OiYYuCpESD9V/giphy.gif?cid=6c09b952c0k4hvsy9sg98zuzw9atnnbgxjdt3opdo9tanzoq&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g",caption="Havanese",width=300,use_column_width=True)
   st.write("The Havanese is a charming small dog breed with a long, silky coat, known for its playful demeanor, intelligence, and affectionate nature.")
 with col4:
-  st.subheader("Nandu Chintu")
-  st.video("https://youtu.be/Dmfh85UC3Cc?si=2GnCjjGXir2wTaLh")
-  st.write("Nandu Chintu cute couple") 
+  st.subheader("Doremon")
+  st.video("https://youtu.be/J4E1JH2nprs?si=WIE3ynga20IDwzCC")
+  st.write("Doraemon is the name of a robot cat that came from the future to help a boy named Nobita Nobi.") 
 
  
 
